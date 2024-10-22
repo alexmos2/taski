@@ -12,7 +12,7 @@ ALLOWED_HOSTS = ['89.169.161.24', 'alexmostaski.chickenkiller.com']
 
 
 # Application definition
-                        
+
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
     'django.contrib.admin',
